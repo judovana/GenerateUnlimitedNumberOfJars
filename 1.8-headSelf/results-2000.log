@@ -1,0 +1,6 @@
+jars: 2000
+resources: 1000
+Uncached took: 573s
+Cached took: 326s
+Offline took: 210s
+java jars took: 3s

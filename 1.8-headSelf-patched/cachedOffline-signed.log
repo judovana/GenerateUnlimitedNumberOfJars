@@ -1,0 +1,10 @@
+The application's digital signature cannot be verified. Do you want to run the application? It will be granted unrestricted access to your computer.
+Name:   2000 jars
+Publisher: my_terrible_cert
+From:
+☰
+The digital signature could not be verified by a trusted source. Only run if you trust the origin of the application. The code executed will be given full permissions, ignoring any Java policies you may have.
+
+Type `exit` to terminate ITW, or type one of the below values. Prefix answer by "R " to remember decision and by "RC " to do so for whole codebase.
+[YES, NO, SANDBOX]
+!traversed through 2000 jars!

@@ -1,0 +1,879 @@
+Tue Oct 06 15:09:50 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.EnvironmentPrinter: OpenWebStartLauncher called with args: [-headless, -Xoffline, http://localhost:8000/JavaApp1.jnlp].
+Tue Oct 06 15:09:50 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.EnvironmentPrinter: OS: Linux
+Tue Oct 06 15:09:50 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.EnvironmentPrinter: Java Runtime Red Hat, Inc-1.8.0_265
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.JNLPRuntime: using DEFAULT extension point
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.JNLPRuntime: Forcing of offline set to: true
+Tue Oct 06 15:09:50 CEST 2020 [INFO   ] net.sourceforge.jnlp.config.DeploymentConfiguration: Ico provider registered correctly.
+Tue Oct 06 15:09:50 CEST 2020 [INFO   ] net.sourceforge.jnlp.config.DeploymentConfiguration: Loading system configuration from: file:/etc/.java/deployment/deployment.config
+Tue Oct 06 15:09:50 CEST 2020 [INFO   ] net.sourceforge.jnlp.config.DeploymentConfiguration: System level settings deployment.properties are mandatory: true
+Tue Oct 06 15:09:50 CEST 2020 [INFO   ] net.sourceforge.jnlp.config.DeploymentConfiguration: Using System level deployment.properties : file:/etc/.java/deployment/deployment.properties
+Tue Oct 06 15:09:50 CEST 2020 [INFO   ] net.sourceforge.jnlp.config.DeploymentConfiguration: System level deployment.config is mandatory: true
+Tue Oct 06 15:09:50 CEST 2020 [INFO   ] net.sourceforge.jnlp.config.DeploymentConfiguration: Loading SYSTEM level properties from: file:/etc/.java/deployment/deployment.properties
+Tue Oct 06 15:09:50 CEST 2020 [INFO   ] net.sourceforge.jnlp.config.DeploymentConfiguration: Loading USER level properties from: file:/home/jvanek/.config/icedtea-web/deployment.properties
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.client.parts.dialogs.security.SecurityDialogMessageHandler: Starting security dialog thread
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.KeyStores: Keystore file /home/jvanek/.config/icedtea-web/security/trusted.clientcerts exists.
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.SecurityUtil: Loading Keystore /home/jvanek/.config/icedtea-web/security/trusted.clientcerts
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.KeystorePasswordAttempter: Operating Keystore /home/jvanek/.config/icedtea-web/security/trusted.clientcerts
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.KeystorePasswordAttempter: Operating Keystore Unknown
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.KeyStores: Keystore file /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.265.b01-1.fc32.x86_64/jre/lib/security/trusted.jssecerts does not exists.
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.SecurityUtil: Loading Keystore Unknown
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.KeystorePasswordAttempter: Operating Keystore Unknown
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.KeyStores: Keystore file /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.265.b01-1.fc32.x86_64/jre/lib/security/trusted.certs does not exists.
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.SecurityUtil: Loading Keystore Unknown
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.KeystorePasswordAttempter: Operating Keystore Unknown
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.KeyStores: Keystore file /home/jvanek/.config/icedtea-web/security/trusted.jssecerts exists.
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.SecurityUtil: Loading Keystore /home/jvanek/.config/icedtea-web/security/trusted.jssecerts
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.KeystorePasswordAttempter: Operating Keystore /home/jvanek/.config/icedtea-web/security/trusted.jssecerts
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.KeyStores: Keystore file /home/jvanek/.config/icedtea-web/security/trusted.certs exists.
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.SecurityUtil: Loading Keystore /home/jvanek/.config/icedtea-web/security/trusted.certs
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.KeystorePasswordAttempter: Operating Keystore /home/jvanek/.config/icedtea-web/security/trusted.certs
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.KeyStores: Keystore file /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.265.b01-1.fc32.x86_64/jre/lib/security/jssecacerts does not exists.
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.SecurityUtil: Loading Keystore Unknown
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.KeystorePasswordAttempter: Operating Keystore Unknown
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.KeyStores: Keystore file /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.265.b01-1.fc32.x86_64/jre/lib/security/cacerts exists.
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.SecurityUtil: Loading Keystore /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.265.b01-1.fc32.x86_64/jre/lib/security/cacerts
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.KeystorePasswordAttempter: Operating Keystore /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.265.b01-1.fc32.x86_64/jre/lib/security/cacerts
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.KeyStores: Keystore file /home/jvanek/.config/icedtea-web/security/trusted.jssecacerts exists.
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.SecurityUtil: Loading Keystore /home/jvanek/.config/icedtea-web/security/trusted.jssecacerts
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.KeystorePasswordAttempter: Operating Keystore /home/jvanek/.config/icedtea-web/security/trusted.jssecacerts
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.KeyStores: Keystore file /home/jvanek/.config/icedtea-web/security/trusted.cacerts exists.
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.SecurityUtil: Loading Keystore /home/jvanek/.config/icedtea-web/security/trusted.cacerts
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.KeystorePasswordAttempter: Operating Keystore /home/jvanek/.config/icedtea-web/security/trusted.cacerts
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.KeyStores: Keystore file /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.265.b01-1.fc32.x86_64/jre/lib/security/trusted.clientcerts does not exists.
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.SecurityUtil: Loading Keystore Unknown
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.KeystorePasswordAttempter: Operating Keystore Unknown
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.KeyStores: Keystore file /home/jvanek/.config/icedtea-web/security/trusted.clientcerts exists.
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.SecurityUtil: Loading Keystore /home/jvanek/.config/icedtea-web/security/trusted.clientcerts
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.security.KeystorePasswordAttempter: Operating Keystore /home/jvanek/.config/icedtea-web/security/trusted.clientcerts
+Tue Oct 06 15:09:50 CEST 2020 [INFO   ] net.sourceforge.jnlp.proxy.browser.FirefoxPreferencesFinder: Using firefox's profiles file: /home/jvanek/.mozilla/firefox/profiles.ini
+Tue Oct 06 15:09:50 CEST 2020 [INFO   ] net.sourceforge.jnlp.proxy.browser.FirefoxPreferencesFinder: Found preferences file: 
+Tue Oct 06 15:09:50 CEST 2020 [INFO   ] net.sourceforge.jnlp.proxy.browser.FirefoxPreferencesParser: Read 1124 entries from Firefox's preferences
+Tue Oct 06 15:09:50 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.Boot: Proceeding with jnlp
+Tue Oct 06 15:09:50 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.Boot: JNLP file location: http://localhost:8000/JavaApp1.jnlp
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.services.ServiceUtil: result: null
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:3269 cached size:3269 -> true
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:3269 cached size:3269 -> true
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp1.jnlp version=null state=DOWNLOADED
+Tue Oct 06 15:09:50 CEST 2020 [INFO   ] net.adoptopenjdk.icedteaweb.xmlparser.MalformedXMLParser: Using MalformedXMLParser
+Tue Oct 06 15:09:50 CEST 2020 [INFO   ] net.sourceforge.jnlp.Parser: Homepage: null
+Tue Oct 06 15:09:50 CEST 2020 [INFO   ] net.sourceforge.jnlp.Parser: Description: null
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.manifest.ManifestAttributesReader: Jars not ready to provide attribute Application-Name
+Tue Oct 06 15:09:50 CEST 2020 [INFO   ] net.sourceforge.jnlp.JNLPFile: Acceptable vendor tag found, contains: jvanek
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.JNLPRuntime: Acquired shared lock on /tmp/jvanek/netx/locks/netx_running to indicate javaws is running
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.manifest.ManifestAttributesReader: Jars not ready to provide attribute Application-Name
+Tue Oct 06 15:09:50 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.manifest.ManifestAttributesReader: Jars not ready to provide attribute Application-Name
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.services.ServiceUtil: result: null
+Tue Oct 06 15:09:51 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: New classloader: http://localhost:8000/JavaApp1.jnlp
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2202 cached size:2202 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2202 cached size:2202 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp100.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2097 cached size:2097 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2097 cached size:2097 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp99.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp98.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp97.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.manifest.ManifestAttributesReader: Jars not ready to provide attribute Application-Name
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp96.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp95.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp94.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp93.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp92.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp91.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp90.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2096 cached size:2096 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2096 cached size:2096 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp89.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp88.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp87.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp86.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp85.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp84.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp83.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp82.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp81.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp80.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2095 cached size:2095 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2095 cached size:2095 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp79.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp78.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp77.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp76.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp75.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp74.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp73.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp72.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp71.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp70.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2095 cached size:2095 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2095 cached size:2095 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp69.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp68.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp67.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp66.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp65.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp64.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp63.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp62.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp61.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp60.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2095 cached size:2095 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2095 cached size:2095 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp59.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp58.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp57.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp56.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp55.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp54.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp53.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp52.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp51.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp50.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2095 cached size:2095 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2095 cached size:2095 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp49.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp48.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp47.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp46.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp45.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp44.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp43.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp42.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp41.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp40.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2095 cached size:2095 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2095 cached size:2095 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp39.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp38.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp37.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp36.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp35.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp34.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp33.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp32.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp31.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp30.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2095 cached size:2095 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2095 cached size:2095 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp29.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp28.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp27.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp26.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp25.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp24.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp23.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp22.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp21.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp20.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2095 cached size:2095 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2095 cached size:2095 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp19.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp18.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp17.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp16.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp15.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp14.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp13.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp12.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2094 cached size:2094 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp11.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp10.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2095 cached size:2095 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2095 cached size:2095 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp9.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp8.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp7.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp6.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp5.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2092 cached size:2092 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2092 cached size:2092 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp4.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2092 cached size:2092 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2092 cached size:2092 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp3.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2093 cached size:2093 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp2.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2015 cached size:2015 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.cache.CacheEntry: isCached: remote size:2015 cached size:2015 -> true
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.adoptopenjdk.icedteaweb.resources.initializer.BaseResourceInitializer: Use cached version of resource location=http://localhost:8000/JavaApp1.jar version=null state=DOWNLOADED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/1/JavaApp100.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/2/JavaApp99.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/3/JavaApp98.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/4/JavaApp97.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/5/JavaApp96.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/6/JavaApp95.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/7/JavaApp94.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/8/JavaApp93.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/9/JavaApp92.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/10/JavaApp91.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/11/JavaApp90.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/12/JavaApp89.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/13/JavaApp88.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/14/JavaApp87.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/15/JavaApp86.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/16/JavaApp85.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/17/JavaApp84.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/18/JavaApp83.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/19/JavaApp82.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/20/JavaApp81.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/21/JavaApp80.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/22/JavaApp79.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/23/JavaApp78.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/24/JavaApp77.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/25/JavaApp76.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/26/JavaApp75.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/27/JavaApp74.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/28/JavaApp73.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/29/JavaApp72.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:51 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/30/JavaApp71.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/31/JavaApp70.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/32/JavaApp69.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/33/JavaApp68.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/34/JavaApp67.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/35/JavaApp66.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/36/JavaApp65.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/37/JavaApp64.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/38/JavaApp63.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/39/JavaApp62.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/40/JavaApp61.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/41/JavaApp60.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/42/JavaApp59.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/43/JavaApp58.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/44/JavaApp57.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/45/JavaApp56.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/46/JavaApp55.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/47/JavaApp54.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/48/JavaApp53.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/49/JavaApp52.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/50/JavaApp51.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/51/JavaApp50.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/52/JavaApp49.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/53/JavaApp48.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/54/JavaApp47.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/55/JavaApp46.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/56/JavaApp45.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/57/JavaApp44.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/58/JavaApp43.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/59/JavaApp42.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/60/JavaApp41.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/61/JavaApp40.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/62/JavaApp39.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/63/JavaApp38.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/64/JavaApp37.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/65/JavaApp36.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/66/JavaApp35.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/67/JavaApp34.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/68/JavaApp33.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/69/JavaApp32.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/70/JavaApp31.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/71/JavaApp30.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/72/JavaApp29.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/73/JavaApp28.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/74/JavaApp27.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/75/JavaApp26.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/76/JavaApp25.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/77/JavaApp24.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/78/JavaApp23.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/79/JavaApp22.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/80/JavaApp21.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/81/JavaApp20.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/82/JavaApp19.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/83/JavaApp18.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/84/JavaApp17.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/85/JavaApp16.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/86/JavaApp15.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/87/JavaApp14.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/88/JavaApp13.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/89/JavaApp12.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/90/JavaApp11.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/91/JavaApp10.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/92/JavaApp9.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/93/JavaApp8.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/94/JavaApp7.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/95/JavaApp6.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/96/JavaApp5.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/97/JavaApp4.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/98/JavaApp3.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/99/JavaApp2.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: Jar found at /home/jvanek/.cache/icedtea-web/cache/0/100/JavaApp1.jar has been verified as UNSIGNED
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.tools.JarCertVerifier: App already has trusted publisher: false
+Tue Oct 06 15:09:52 CEST 2020 [WARNING] net.adoptopenjdk.icedteaweb.manifest.ManifestAttributesChecker: Manifest attribute checks are disabled.
+Tue Oct 06 15:09:52 CEST 2020 [WARNING] net.sourceforge.jnlp.JNLPFile: Application title was not found in manifest. Check with application vendor
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/1/JavaApp100.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp100.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/2/JavaApp99.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp99.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/3/JavaApp98.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp98.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/4/JavaApp97.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp97.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/5/JavaApp96.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp96.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/6/JavaApp95.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp95.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/7/JavaApp94.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp94.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/8/JavaApp93.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp93.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/9/JavaApp92.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp92.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/10/JavaApp91.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp91.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/11/JavaApp90.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp90.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/12/JavaApp89.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp89.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/13/JavaApp88.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp88.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/14/JavaApp87.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp87.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/15/JavaApp86.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp86.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/16/JavaApp85.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp85.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/17/JavaApp84.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp84.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/18/JavaApp83.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp83.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/19/JavaApp82.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp82.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/20/JavaApp81.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp81.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/21/JavaApp80.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp80.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/22/JavaApp79.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp79.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/23/JavaApp78.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp78.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/24/JavaApp77.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp77.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/25/JavaApp76.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp76.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/26/JavaApp75.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp75.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/27/JavaApp74.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp74.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/28/JavaApp73.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp73.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/29/JavaApp72.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp72.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/30/JavaApp71.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp71.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/31/JavaApp70.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp70.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/32/JavaApp69.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp69.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/33/JavaApp68.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp68.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/34/JavaApp67.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp67.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/35/JavaApp66.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp66.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/36/JavaApp65.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp65.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/37/JavaApp64.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp64.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/38/JavaApp63.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp63.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/39/JavaApp62.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp62.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/40/JavaApp61.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp61.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/41/JavaApp60.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp60.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/42/JavaApp59.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp59.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/43/JavaApp58.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp58.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/44/JavaApp57.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp57.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/45/JavaApp56.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp56.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/46/JavaApp55.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp55.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/47/JavaApp54.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp54.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/48/JavaApp53.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp53.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/49/JavaApp52.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp52.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/50/JavaApp51.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp51.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/51/JavaApp50.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp50.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/52/JavaApp49.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp49.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/53/JavaApp48.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp48.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/54/JavaApp47.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp47.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/55/JavaApp46.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp46.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/56/JavaApp45.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp45.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/57/JavaApp44.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp44.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/58/JavaApp43.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp43.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/59/JavaApp42.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp42.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/60/JavaApp41.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp41.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/61/JavaApp40.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp40.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/62/JavaApp39.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp39.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/63/JavaApp38.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp38.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/64/JavaApp37.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp37.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/65/JavaApp36.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp36.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/66/JavaApp35.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp35.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/67/JavaApp34.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp34.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/68/JavaApp33.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp33.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/69/JavaApp32.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp32.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/70/JavaApp31.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp31.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/71/JavaApp30.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp30.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/72/JavaApp29.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp29.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/73/JavaApp28.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp28.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/74/JavaApp27.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp27.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/75/JavaApp26.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp26.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/76/JavaApp25.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp25.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/77/JavaApp24.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp24.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/78/JavaApp23.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp23.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/79/JavaApp22.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp22.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/80/JavaApp21.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp21.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/81/JavaApp20.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp20.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/82/JavaApp19.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp19.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/83/JavaApp18.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp18.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/84/JavaApp17.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp17.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/85/JavaApp16.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp16.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/86/JavaApp15.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp15.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/87/JavaApp14.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp14.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/88/JavaApp13.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp13.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/89/JavaApp12.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp12.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/90/JavaApp11.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp11.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/91/JavaApp10.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp10.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/92/JavaApp9.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp9.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/93/JavaApp8.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp8.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/94/JavaApp7.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp7.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/95/JavaApp6.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp6.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/96/JavaApp5.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp5.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/97/JavaApp4.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp4.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/98/JavaApp3.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp3.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/99/JavaApp2.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp2.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Activate jar: file:/home/jvanek/.cache/icedtea-web/cache/0/100/JavaApp1.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.cache.NativeLibraryStorage: Activate native: http://localhost:8000/JavaApp1.jar
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/1/JavaApp100.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/2/JavaApp99.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/3/JavaApp98.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/4/JavaApp97.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/5/JavaApp96.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/6/JavaApp95.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/7/JavaApp94.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/8/JavaApp93.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/9/JavaApp92.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/10/JavaApp91.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/11/JavaApp90.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/12/JavaApp89.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/13/JavaApp88.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/14/JavaApp87.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/15/JavaApp86.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/16/JavaApp85.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/17/JavaApp84.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/18/JavaApp83.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/19/JavaApp82.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/20/JavaApp81.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/21/JavaApp80.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/22/JavaApp79.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/23/JavaApp78.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/24/JavaApp77.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/25/JavaApp76.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/26/JavaApp75.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/27/JavaApp74.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/28/JavaApp73.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/29/JavaApp72.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/30/JavaApp71.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/31/JavaApp70.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/32/JavaApp69.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/33/JavaApp68.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/34/JavaApp67.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/35/JavaApp66.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/36/JavaApp65.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/37/JavaApp64.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/38/JavaApp63.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/39/JavaApp62.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/40/JavaApp61.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/41/JavaApp60.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/42/JavaApp59.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/43/JavaApp58.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/44/JavaApp57.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/45/JavaApp56.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/46/JavaApp55.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/47/JavaApp54.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/48/JavaApp53.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/49/JavaApp52.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/50/JavaApp51.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/51/JavaApp50.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/52/JavaApp49.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/53/JavaApp48.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/54/JavaApp47.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/55/JavaApp46.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/56/JavaApp45.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/57/JavaApp44.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/58/JavaApp43.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/59/JavaApp42.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/60/JavaApp41.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/61/JavaApp40.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/62/JavaApp39.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/63/JavaApp38.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/64/JavaApp37.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/65/JavaApp36.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/66/JavaApp35.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/67/JavaApp34.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/68/JavaApp33.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/69/JavaApp32.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/70/JavaApp31.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/71/JavaApp30.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/72/JavaApp29.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/73/JavaApp28.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/74/JavaApp27.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/75/JavaApp26.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/76/JavaApp25.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/77/JavaApp24.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/78/JavaApp23.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/79/JavaApp22.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/80/JavaApp21.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/81/JavaApp20.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/82/JavaApp19.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/83/JavaApp18.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/84/JavaApp17.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/85/JavaApp16.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/86/JavaApp15.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/87/JavaApp14.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/88/JavaApp13.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/89/JavaApp12.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/90/JavaApp11.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/91/JavaApp10.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/92/JavaApp9.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/93/JavaApp8.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/94/JavaApp7.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/95/JavaApp6.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/96/JavaApp5.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/97/JavaApp4.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/98/JavaApp3.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/99/JavaApp2.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader: Permission added: ("java.io.FilePermission" "/home/jvanek/.cache/icedtea-web/cache/0/100/JavaApp1.jar" "read")
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.Launcher: Starting application [my.app.JavaApp1] ...
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/1/JavaApp100.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/2/JavaApp99.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/3/JavaApp98.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/4/JavaApp97.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/5/JavaApp96.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/6/JavaApp95.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/7/JavaApp94.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/8/JavaApp93.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/9/JavaApp92.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/10/JavaApp91.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/11/JavaApp90.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/12/JavaApp89.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/13/JavaApp88.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/14/JavaApp87.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/15/JavaApp86.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/16/JavaApp85.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/17/JavaApp84.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/18/JavaApp83.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/19/JavaApp82.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/20/JavaApp81.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/21/JavaApp80.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/22/JavaApp79.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/23/JavaApp78.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/24/JavaApp77.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/25/JavaApp76.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/26/JavaApp75.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/27/JavaApp74.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/28/JavaApp73.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/29/JavaApp72.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/30/JavaApp71.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/31/JavaApp70.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/32/JavaApp69.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/33/JavaApp68.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/34/JavaApp67.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/35/JavaApp66.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/36/JavaApp65.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/37/JavaApp64.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/38/JavaApp63.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/39/JavaApp62.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/40/JavaApp61.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/41/JavaApp60.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/42/JavaApp59.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/43/JavaApp58.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/44/JavaApp57.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/45/JavaApp56.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/46/JavaApp55.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/47/JavaApp54.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/48/JavaApp53.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/49/JavaApp52.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/50/JavaApp51.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/51/JavaApp50.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/52/JavaApp49.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/53/JavaApp48.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/54/JavaApp47.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/55/JavaApp46.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/56/JavaApp45.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/57/JavaApp44.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/58/JavaApp43.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/59/JavaApp42.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/60/JavaApp41.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/61/JavaApp40.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/62/JavaApp39.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/63/JavaApp38.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/64/JavaApp37.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/65/JavaApp36.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/66/JavaApp35.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/67/JavaApp34.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/68/JavaApp33.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/69/JavaApp32.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/70/JavaApp31.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/71/JavaApp30.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/72/JavaApp29.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/73/JavaApp28.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/74/JavaApp27.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/75/JavaApp26.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/76/JavaApp25.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/77/JavaApp24.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/78/JavaApp23.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/79/JavaApp22.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/80/JavaApp21.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/81/JavaApp20.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/82/JavaApp19.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/83/JavaApp18.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/84/JavaApp17.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/85/JavaApp16.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/86/JavaApp15.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/87/JavaApp14.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/88/JavaApp13.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/89/JavaApp12.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/90/JavaApp11.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/91/JavaApp10.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/92/JavaApp9.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/93/JavaApp8.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/94/JavaApp7.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/95/JavaApp6.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/96/JavaApp5.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/97/JavaApp4.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/98/JavaApp3.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/99/JavaApp2.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.CachedJarFileCallback: Class-Path attribute cleared for /home/jvanek/.cache/icedtea-web/cache/0/100/JavaApp1.jar
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.Launcher: Setting net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader@2555d1c0 as the classloader for thread 100 jars
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.Launcher: Setting net.sourceforge.jnlp.runtime.classloader.JNLPClassLoader@2555d1c0 as the classloader for thread AWT-EventQueue-1
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.Launcher: Invoking main() with args: []
+!traversed through 100 jars!
+Tue Oct 06 15:09:52 CEST 2020 [INFO   ] net.sourceforge.jnlp.Launcher: main completed
+Tue Oct 06 15:09:52 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.Boot: Exiting Boot.mainWithReturnCode() with 0
+Tue Oct 06 15:10:01 CEST 2020 [DEBUG  ] net.sourceforge.jnlp.runtime.JNLPRuntime: Release shared lock on /tmp/jvanek/netx/locks/netx_running
+Tue Oct 06 15:10:01 CEST 2020 [INFO   ] net.adoptopenjdk.icedteaweb.resources.cache.LeastRecentlyUsedCache: No other instances of javaws are running
