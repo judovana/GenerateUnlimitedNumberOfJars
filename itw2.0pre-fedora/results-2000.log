@@ -1,6 +1,10 @@
 jars: 2000
-resources: 1000B
-Uncached took: 191s
-Cached took: 108s
-Offline took: 77s
+resources: 1000
+Uncached took: 176s
+Cached took: 101s
+Offline took: 73s
 java jars took: 3s
+Uncached-signed took: 180s
+Cached-signed took: 100s
+Offline-signed took: 70s
+java jars-signed took: 5s
