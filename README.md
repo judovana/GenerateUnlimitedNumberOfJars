@@ -12,10 +12,12 @@ ITW 1.7:
  * Uncached-signed took: 535s
  * Cached-signed took: 293s
  * Offline-signed took: 197s
+
 ITW 1.8
  * Uncached took: 573s
  * Cached took: 326s
  * Offline took: 210s
+
 ITW 2.0:
  * Uncached took: 191s
  * Cached took: 108s
@@ -23,6 +25,7 @@ ITW 2.0:
  * Uncached-signed took: 180s
  * Cached-signed took: 100s
  * Offline-signed took: 70s
+
 ITW 1.8.0 with akaschenko's  thread grouping patch
  * Uncached took: 211s
  * Cached took: 109s
